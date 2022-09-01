@@ -1,3 +1,3 @@
-module github.com/turepalsson/goqueue.git
+module github.com/turepalsson/goqueue
 
 go 1.19
