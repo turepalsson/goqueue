@@ -1,4 +1,4 @@
-package goqueue
+package queue
 
 func Qadd[T interface{}](queue []T, element T, less func(T, T) bool) (result []T) {
 	result = append(queue, element)
